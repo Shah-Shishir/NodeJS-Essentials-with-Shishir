@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-essentials-with-shishir",
+  "version": "1.0.0",
+  "description": "Here I place all of my NodeJS learnings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shah-Shishir/NodeJS-Essentials-with-Shishir.git"
+  },
+  "author": "SNR Shishir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shah-Shishir/NodeJS-Essentials-with-Shishir/issues"
+  },
+  "homepage": "https://github.com/Shah-Shishir/NodeJS-Essentials-with-Shishir#readme"
+}
